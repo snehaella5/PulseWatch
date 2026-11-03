@@ -2,7 +2,6 @@
 
 The openstatus team takes security bugs in openstatus seriously. We appreciate your efforts to responsibly disclose your findings, and will make every effort to acknowledge your contributions.
 
-To report a security issue, please reach out to us via email at [ping@openstatus](mailto:ping@openstatus.dev) or on Discord
 
 
 
